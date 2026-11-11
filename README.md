@@ -67,6 +67,7 @@ The app is event-driven. For example, `password_entry.bind("<KeyRelease>", live_
 
 ## Author
 
-Adane Godfred Amofah
-BSc Computer Engineering, Ghana Communication Technology University (GCTU)
+Adane Godfred Amofah,
+BSc. Computer Engineering, 
+Ghana Communication Technology University (GCTU)
 Index No: 2526404689
