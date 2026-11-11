@@ -37,7 +37,7 @@ The score is out of 6.
 Any password found in the common passwords list scores 0 and is labelled VERY WEAK.
 
 ## Requirements
-
+- pycharm 2026.2.3 or newer
 - Python 3.8 or newer
 - Tkinter (comes with the standard Python installer on Windows and macOS)
 
@@ -46,9 +46,7 @@ No extra packages are needed. The app only uses the standard library: `string`, 
 ## How to run
 
 ```
-git clone <your-repo-link>
-cd <your-repo-folder>
-python passguard.py
+Just run it in my charm it will run
 ```
 
 ## How it works
