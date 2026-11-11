@@ -46,7 +46,7 @@ No extra packages are needed. The app only uses the standard library: `string`, 
 ## How to run
 
 ```
-Just run it in my charm it will run
+Just run it in pycharm the app will open
 ```
 
 ## How it works
