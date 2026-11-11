@@ -4,11 +4,6 @@ A desktop app built with Python and Tkinter that checks how strong a password is
 
 Built for Lab 1 (Python, Level 200) at Ghana Communication Technology University (GCTU), Faculty of Engineering.
 
-## Screenshot
-
-![PassGuard screenshot](screenshot.png)
-
-(Add your screenshot to the repo and name it `screenshot.png`.)
 
 ## Features
 
